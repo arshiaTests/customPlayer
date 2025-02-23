@@ -16,6 +16,7 @@ body {
     direction: ltr;
     overflow: hidden;
     transition: .2s all;
+    height: 100vh;
 }
 
 .myplayer video {
